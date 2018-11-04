@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo');
+*{
+    box-sizing: border-box;
+}
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #606060;
+    border-radius: 10px;
+    font-family: 'Baloo', cursive;
+    width: 120px;
+    height: 120px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 36px;
+    background-color: #f7fade;
+}
+
+.light-blue{
+    background-color: #dfedd6;
+}
+
+/*
+@media screen and (min-width: 1600px){
+    
+    
+}*/
